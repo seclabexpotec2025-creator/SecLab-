@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Navegación (igual que lo tenías)
 function volver() { window.location.href = "Archivos-actividad3.html"; }
-function volver1() { window.location.href = "index.html"; }
+function volver1() { window.location.href = "inicio.html"; }
 
 // === Acción: si el seleccionado NO es value="1", se oculta y queda oculto entre páginas ===
 function selección() {
@@ -163,4 +163,5 @@ function restaurar() {
           }
         });
       });
+
     });
